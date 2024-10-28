@@ -1,0 +1,76 @@
+{
+	font-family: Arial;
+}
+h1, h2, h3, h4, h5 {
+	text-align: center;
+}
+div, h5 {
+	background-color: rgba(300, 300, 300, 0.9);
+}
+.tahunkelahiran {
+	color: darkred;
+}
+.tahunkematian{
+	color: darkred;
+}
+.map-link {
+	color: darkblue;
+}
+.border {
+	padding: 5pc;
+	border-style: dashed;
+	border-color: #BE8025;
+	border-radius: 10px;
+}
+
+body {
+	background-image: url("/Latihan/images/pahlwan6.jpeg");
+	background-position: center;
+}
+
+h1 {
+	color: white;
+	background-color: darkred;
+	margin-top: 40px;
+	margin-bottom: 70px;
+	border-style: solid;
+	border-width: 5px;
+}
+p {
+	text-align: justify;
+	font-size: 15px;
+	color: black;
+	float: center;
+}
+
+div {
+	padding: 20px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	margin-left: 110px;
+	margin-right: 110px;
+	border-style: solid;
+}
+
+h2 { 
+	background-color:darkred;
+	color: white;
+}
+h3 { 
+	background-color:darkred;
+	color: white;
+}
+
+img {
+	width: 250px;
+	height: 240px;
+	margin:7px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	:hover {
+		color: darkblue;
+	}
+}
